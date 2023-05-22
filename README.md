@@ -1,5 +1,7 @@
-# MetCash
-
+![demo](https://raw.githubusercontent.com/Tito-Osemobor/MetCash/main/assets/darkmetcash.png)
+<h1 align="center">
+  MetCash
+</h1>
 
 A Java-based Graphical User Interface (GUI) ATM system with a strong focus on providing users with a secure and user-friendly platform for conducting transactions.
 ## Overview
