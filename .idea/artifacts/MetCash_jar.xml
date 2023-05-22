@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MetCash:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MetCash_jar</output-path>
+    <root id="archive" name="MetCash.jar">
+      <element id="module-output" name="MetCash" />
+    </root>
+  </artifact>
+</component>
